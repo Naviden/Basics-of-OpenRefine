@@ -11,7 +11,7 @@ Welcome to this comprehensive set of learning materials for **OpenRefine**, an o
 | `03_data_cleaning_and_transformation.md` | Techniques for cleaning and transforming data with GREL and clustering |
 | `04_data_reconciliation_and_augmentation.md` | Connecting your data with external sources using reconciliation and APIs |
 | `05_advanced_text_analysis.md` | Performing text analysis using fingerprints, n-grams, and visualization |
-| `06_hands_on_exercises.md` | Practical exercises to reinforce your understanding of each topic |
+
 
 ## What You’ll Learn
 
